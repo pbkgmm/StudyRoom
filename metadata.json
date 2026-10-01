@@ -1,0 +1,6 @@
+{
+  "name": "스터디룸 예약 시스템",
+  "description": "집중을 위한 공간 - 스터디룸 실시간 예약 및 요금 계산 서비스",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
